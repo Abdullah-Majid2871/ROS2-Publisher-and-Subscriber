@@ -1,2 +1,2 @@
-The type of data my publisher and subscriber sent were GPS coordinates in the format of (latitude, longitude). This is because the
-Mars Rover has an onboard GPS that is used for navigation. In addition, it is helpful to know the exact coordinate of the rover for the drivetrain and compare it to the coordinates it's meant to navigate to. 
+The type of data my publisher and subscriber sent were GPS coordinates in the format of (latitude, longitude). This is because theMars Rover has an onboard GPS that is used for navigation. 
+In addition, it is helpful to know the exact coordinate of the rover for the drivetrain and compare it to the coordinates it's meant to navigate to. 
